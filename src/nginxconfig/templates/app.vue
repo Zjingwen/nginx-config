@@ -89,9 +89,6 @@
 
           <h2>{{ $t("templates.app.globalConfig") }}</h2>
           <Global :data="global"></Global>
-
-          <DropletCallout></DropletCallout>
-
           <h2>{{ $t("templates.app.setup") }}</h2>
           <Setup
             :data="{
