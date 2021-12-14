@@ -1,0 +1,75 @@
+/*
+Copyright 2021 DigitalOcean
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+@font-face {
+  font-display: swap;
+  font-family: $light-font-family-name;
+  font-weight: $light-font-weight;
+  src: local("Inter-Light"),
+    url("../fonts/Inter-Light.ttf") format("ttf"),
+    url("../fonts/Inter-Light.woff") format("woff"),
+    url("../fonts/Inter-Light.woff2") format("woff2");
+}
+
+@mixin font-light {
+  font-family: $light-font-family;
+  font-weight: $light-font-weight;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: $regular-font-family-name;
+  font-weight: $regular-font-weight;
+  src: local("Inter-Regular"),
+    url("../fonts/Inter-Regular.ttf") format("ttf"),
+    url("../fonts/Inter-Regular.woff") format("woff"),
+    url("../fonts/Inter-Regular.woff2") format("woff2");
+}
+
+@mixin font-regular {
+  font-family: $regular-font-family;
+  font-weight: $regular-font-weight;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: $medium-font-family-name;
+  font-weight: $medium-font-weight;
+  src: local("Inter-Medium"),
+    url("../fonts/Inter-Medium.ttf") format("ttf"),
+    url("../fonts/Inter-Medium.woff") format("woff"),
+    url("../fonts/Inter-Medium.woff2") format("woff2");
+}
+
+@mixin font-medium {
+  font-family: $medium-font-family;
+  font-weight: $medium-font-weight;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: $bold-font-family-name;
+  font-weight: $bold-font-weight;
+  src: local("Inter-Bold"),
+    url("../fonts/Inter-Bold.ttf") format("ttf"),
+    url("../fonts/Inter-Bold.woff") format("woff"),
+    url("../fonts/Inter-Bold.woff2") format("woff2");
+}
+
+@mixin font-bold {
+  font-family: $bold-font-family;
+  font-weight: $bold-font-weight;
+}
