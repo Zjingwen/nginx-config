@@ -1,28 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/digitalocean/nginxconfig.io.svg)](https://github.com/digitalocean/nginxconfig.io/stargazers)
-[![GitHub contributors](https://img.shields.io/github/contributors/digitalocean/nginxconfig.io.svg?color=blue)](https://github.com/digitalocean/nginxconfig.io/graphs/contributors)
-[![MIT License](https://img.shields.io/github/license/digitalocean/nginxconfig.io.svg?color=blue)](https://github.com/digitalocean/nginxconfig.io/blob/master/LICENSE)
-<br />
-[![Closed issues](https://img.shields.io/github/issues-closed-raw/digitalocean/nginxconfig.io.svg?color=brightgreen)](https://github.com/digitalocean/nginxconfig.io/issues?q=is%3Aissue+is%3Aclosed)
-[![Closed PR](https://img.shields.io/github/issues-pr-closed-raw/digitalocean/nginxconfig.io.svg?color=brightgreen)](https://github.com/digitalocean/nginxconfig.io/pulls?q=is%3Apr+is%3Aclosed)
-[![Open issues](https://img.shields.io/github/issues-raw/digitalocean/nginxconfig.io.svg)](https://github.com/digitalocean/nginxconfig.io/issues)
-[![Open PR](https://img.shields.io/github/issues-pr-raw/digitalocean/nginxconfig.io.svg)](https://github.com/digitalocean/nginxconfig.io/pulls)
-
-[![nginxconfig](src/static/banner.png)](https://do.co/nginxconfig)
-
-<h3 align="center">⚙️ NGINX configuration generator on steroids 💉</h3>
-<p align="center">
-    The only tool you'll ever need to configure your NGINX server.
-    <br />
-    <a href="https://do.co/nginxconfig"><strong>do.co/nginxconfig »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/digitalocean/nginxconfig.io/issues/new?template=report-a-bug.md">Report a bug</a>
-    ·
-    <a href="https://github.com/digitalocean/nginxconfig.io/issues/new?template=request-a-feature.md">Request a feature</a>
-</p>
-
-<br />
-
 # ✨ [NGINX Config](https://do.co/nginxconfig)
 
 NGINX is so much more than just a webserver. You already knew that, probably.
